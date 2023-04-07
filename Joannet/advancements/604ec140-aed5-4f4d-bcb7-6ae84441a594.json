@@ -3418,5 +3418,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2023-04-07 05:45:45 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
