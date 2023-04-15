@@ -616,6 +616,7 @@
     "criteria": {
       "minecraft:pillager": "2019-08-07 14:26:04 -0500",
       "minecraft:skeleton": "2019-07-16 09:38:01 -0500",
+      "minecraft:vindicator": "2023-04-14 20:59:06 -0500",
       "minecraft:spider": "2019-07-18 04:29:03 -0500",
       "minecraft:creeper": "2019-07-19 08:48:54 -0500",
       "minecraft:slime": "2019-07-31 22:47:36 -0500",
@@ -3517,6 +3518,24 @@
   "minecraft:recipes/decorations/purple_banner": {
     "criteria": {
       "has_purple_wool": "2023-04-14 07:18:52 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-14 20:50:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-14 20:50:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2023-04-14 20:50:41 -0500"
     },
     "done": true
   },
