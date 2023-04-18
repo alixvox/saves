@@ -3,6 +3,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2022-05-14 21:40:06 -0500",
       "minecraft:old_growth_pine_taiga": "2019-07-30 22:31:41 -0500",
+      "minecraft:mushroom_fields": "2023-04-16 04:05:07 -0500",
       "minecraft:taiga": "2019-07-29 07:32:53 -0500",
       "minecraft:deep_ocean": "2022-04-23 20:37:33 -0500",
       "minecraft:eroded_badlands": "2022-04-24 19:56:48 -0500",
@@ -620,12 +621,14 @@
       "minecraft:spider": "2019-07-18 04:29:03 -0500",
       "minecraft:creeper": "2019-07-19 08:48:54 -0500",
       "minecraft:slime": "2019-07-31 22:47:36 -0500",
+      "minecraft:evoker": "2023-04-15 21:46:25 -0500",
       "minecraft:phantom": "2022-05-13 20:44:48 -0500",
       "minecraft:witch": "2019-07-31 15:35:46 -0500",
       "minecraft:husk": "2019-08-07 23:54:30 -0500",
       "minecraft:cave_spider": "2022-04-25 01:59:17 -0500",
       "minecraft:stray": "2022-05-15 20:39:55 -0500",
       "minecraft:enderman": "2022-05-16 16:15:24 -0500",
+      "minecraft:vex": "2023-04-15 21:46:19 -0500",
       "minecraft:zombie": "2019-07-16 08:41:43 -0500",
       "minecraft:drowned": "2022-05-20 21:36:23 -0500",
       "minecraft:zombie_villager": "2019-07-22 17:44:08 -0500"
