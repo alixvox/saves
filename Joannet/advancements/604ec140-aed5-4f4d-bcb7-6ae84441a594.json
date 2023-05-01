@@ -40,6 +40,7 @@
       "minecraft:ocean": "2022-04-23 20:16:30 -0500",
       "minecraft:jungle": "2022-05-09 17:54:07 -0500",
       "minecraft:old_growth_spruce_taiga": "2022-05-14 21:44:58 -0500",
+      "minecraft:snowy_beach": "2023-04-29 03:45:27 -0500",
       "minecraft:windswept_savanna": "2022-04-23 00:44:14 -0500",
       "minecraft:warm_ocean": "2022-04-23 20:54:59 -0500",
       "minecraft:deep_lukewarm_ocean": "2022-04-23 20:38:52 -0500",
@@ -618,6 +619,7 @@
     "criteria": {
       "minecraft:pillager": "2019-08-07 14:26:04 -0500",
       "minecraft:skeleton": "2019-07-16 09:38:01 -0500",
+      "minecraft:ravager": "2023-04-29 02:24:25 -0500",
       "minecraft:vindicator": "2023-04-14 20:59:06 -0500",
       "minecraft:spider": "2019-07-18 04:29:03 -0500",
       "minecraft:creeper": "2019-07-19 08:48:54 -0500",
@@ -3540,6 +3542,48 @@
   "minecraft:recipes/decorations/light_gray_carpet": {
     "criteria": {
       "has_light_gray_wool": "2023-04-14 20:50:41 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2023-04-27 03:08:58 -0500"
+    },
+    "done": true
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2023-04-29 03:36:22 -0500"
     },
     "done": true
   },
