@@ -618,17 +618,23 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2019-08-07 14:26:04 -0500",
+      "minecraft:blaze": "2023-05-02 04:19:54 -0500",
       "minecraft:skeleton": "2019-07-16 09:38:01 -0500",
       "minecraft:ravager": "2023-04-29 02:24:25 -0500",
+      "minecraft:hoglin": "2023-05-02 04:05:58 -0500",
       "minecraft:vindicator": "2023-04-14 20:59:06 -0500",
+      "minecraft:magma_cube": "2023-05-02 04:18:31 -0500",
       "minecraft:spider": "2019-07-18 04:29:03 -0500",
       "minecraft:creeper": "2019-07-19 08:48:54 -0500",
       "minecraft:slime": "2019-07-31 22:47:36 -0500",
       "minecraft:evoker": "2023-04-15 21:46:25 -0500",
       "minecraft:phantom": "2022-05-13 20:44:48 -0500",
+      "minecraft:zombified_piglin": "2023-05-02 03:51:18 -0500",
       "minecraft:witch": "2019-07-31 15:35:46 -0500",
+      "minecraft:wither_skeleton": "2023-05-02 04:22:11 -0500",
       "minecraft:husk": "2019-08-07 23:54:30 -0500",
       "minecraft:cave_spider": "2022-04-25 01:59:17 -0500",
+      "minecraft:piglin": "2023-05-02 04:01:09 -0500",
       "minecraft:stray": "2022-05-15 20:39:55 -0500",
       "minecraft:enderman": "2022-05-16 16:15:24 -0500",
       "minecraft:vex": "2023-04-15 21:46:19 -0500",
@@ -2075,6 +2081,7 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "minecraft:pig": "2019-11-29 23:39:40 -0600",
+      "minecraft:turtle": "2023-05-03 02:28:28 -0500",
       "minecraft:sheep": "2019-07-29 11:01:43 -0500",
       "minecraft:cow": "2019-07-29 11:03:27 -0500",
       "minecraft:chicken": "2019-07-29 09:44:17 -0500"
@@ -3584,6 +3591,202 @@
   "minecraft:end/elytra": {
     "criteria": {
       "elytra": "2023-04-29 03:36:22 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-05-02 03:02:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-05-02 03:02:38 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-05-02 04:05:18 -0500",
+      "minecraft:nether_wastes": "2023-05-02 03:02:39 -0500",
+      "minecraft:soul_sand_valley": "2023-05-02 04:07:42 -0500",
+      "minecraft:basalt_deltas": "2023-05-02 03:59:26 -0500",
+      "minecraft:warped_forest": "2023-05-02 05:20:07 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-05-02 03:03:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2023-05-02 03:03:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2023-05-02 03:03:30 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2023-05-02 03:03:46 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2023-05-02 03:07:13 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2023-05-02 03:59:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2023-05-02 03:59:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2023-05-02 03:59:40 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2023-05-02 04:07:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2023-05-02 04:15:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2023-05-02 04:15:39 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2023-05-02 04:18:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2023-05-02 04:20:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2023-05-02 04:20:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2023-05-02 04:20:10 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2023-05-02 04:36:35 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2023-05-02 04:46:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2023-05-02 04:46:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2023-05-02 04:46:12 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2023-05-02 04:47:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2023-05-02 04:47:08 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2023-05-02 04:59:20 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2023-05-02 05:23:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2023-05-03 02:52:27 -0500"
     },
     "done": true
   },
