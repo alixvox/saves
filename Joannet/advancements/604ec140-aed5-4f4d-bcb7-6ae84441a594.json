@@ -3797,5 +3797,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_candle": {
+    "criteria": {
+      "has_cyan_dye": "2023-05-23 05:18:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_cyan_dye": "2023-05-23 05:18:43 -0500"
+    },
+    "done": true
+  },
   "DataVersion": 3337
 }
