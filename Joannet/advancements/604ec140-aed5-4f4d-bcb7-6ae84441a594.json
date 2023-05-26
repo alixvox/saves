@@ -638,6 +638,7 @@
       "minecraft:piglin": "2023-05-02 04:01:09 -0500",
       "minecraft:stray": "2022-05-15 20:39:55 -0500",
       "minecraft:enderman": "2022-05-16 16:15:24 -0500",
+      "minecraft:silverfish": "2023-05-26 01:25:17 -0500",
       "minecraft:vex": "2023-04-15 21:46:19 -0500",
       "minecraft:zombie": "2019-07-16 08:41:43 -0500",
       "minecraft:drowned": "2022-05-20 21:36:23 -0500",
@@ -3806,6 +3807,24 @@
   "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
     "criteria": {
       "has_cyan_dye": "2023-05-23 05:18:43 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2023-05-25 16:27:29 -0500"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2023-05-25 17:13:26 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2023-05-25 16:27:29 -0500"
     },
     "done": true
   },
