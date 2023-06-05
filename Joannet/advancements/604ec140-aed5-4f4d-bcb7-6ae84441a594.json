@@ -351,6 +351,7 @@
       "golden_apple": "2022-04-25 01:57:54 -0500",
       "rotten_flesh": "2019-07-18 04:17:29 -0500",
       "salmon": "2019-12-04 13:31:18 -0600",
+      "melon_slice": "2023-06-02 11:16:59 -0500",
       "beetroot": "2019-07-30 22:31:36 -0500",
       "cooked_chicken": "2019-07-18 05:29:21 -0500",
       "cooked_salmon": "2023-05-09 04:39:39 -0500",
@@ -3843,6 +3844,24 @@
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2023-05-26 21:35:51 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2023-06-02 11:01:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2023-06-02 11:01:11 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2023-06-02 11:01:11 -0500"
     },
     "done": true
   },
