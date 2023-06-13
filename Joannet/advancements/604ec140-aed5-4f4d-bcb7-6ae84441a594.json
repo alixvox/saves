@@ -350,10 +350,12 @@
       "bread": "2019-07-22 07:30:30 -0500",
       "golden_apple": "2022-04-25 01:57:54 -0500",
       "rotten_flesh": "2019-07-18 04:17:29 -0500",
+      "glow_berries": "2023-06-12 16:24:08 -0500",
       "salmon": "2019-12-04 13:31:18 -0600",
       "melon_slice": "2023-06-02 11:16:59 -0500",
       "beetroot": "2019-07-30 22:31:36 -0500",
       "cooked_chicken": "2019-07-18 05:29:21 -0500",
+      "enchanted_golden_apple": "2023-06-12 16:18:18 -0500",
       "cooked_salmon": "2023-05-09 04:39:39 -0500",
       "carrot": "2023-03-28 03:06:05 -0500"
     },
@@ -3868,6 +3870,36 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2023-06-11 21:42:48 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2023-06-12 19:33:27 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2023-06-12 19:34:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2023-06-12 19:34:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2023-06-12 19:34:55 -0500"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2023-06-12 21:38:25 -0500"
     },
     "done": true
   },
